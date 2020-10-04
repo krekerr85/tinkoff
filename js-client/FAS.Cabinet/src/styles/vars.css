@@ -1,0 +1,33 @@
+:root{
+  --theme_primary-color: black;
+  --theme_secondary-color: #536167;
+  --theme_accent-color: #ff0000;
+  --theme_main-background-color: #fff;
+  --theme_secondary-background-color: white;
+  --theme_border-color: #ccc;
+
+  --theme_wrong-answer-color: red;
+  --theme_alert-header-color: var(--theme_accent-color);
+
+
+  --theme_main-background: var(--theme_main-background-color);
+  --theme_text-color: var(--theme_primary-color);
+  --theme_text-color_selected: var(--theme_accent-color);
+  --theme_header-background: var(--theme_accent-color);
+  --theme_header-background-hover: var(--theme_secondary-color);
+  --theme_header-text-color: white;
+  --theme_content-background-color: var(--theme_secondary-background-color);
+
+  --theme_border-style: 1px solid var(--theme_border-color);
+  --theme_transparent-border-style: 1px solid transparent;
+
+  --theme-technical-message-my-message-color: var(--theme_accent-color);
+
+  --font-size_normal:18px;
+  --font-size_big: 24px;
+  --font-size_small: 12px;
+
+  --icon-size-big: 25px;
+
+  --work-area-width: 1170px;
+}
